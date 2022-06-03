@@ -2,3 +2,5 @@
 .DS_Store
 *.html
 */results.csv
+*/entries.csv
+*/queries.csv
